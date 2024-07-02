@@ -7,9 +7,9 @@
     </a>
 
     <ul class="nav col-md-4 justify-content-end">
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">About</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
+      <li class="nav-item"><a href="../website/home.php" class="nav-link px-2 text-body-secondary">Home</a></li>
+      <li class="nav-item"><a href="../website/about.php" class="nav-link px-2 text-body-secondary">About</a></li>
+      <li class="nav-item"><a href="../website/contact.php" class="nav-link px-2 text-body-secondary">Contact Us</a></li>
       <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Services</a></li>
       <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Products</a></li>
     </ul>

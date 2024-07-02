@@ -55,6 +55,8 @@
 
 
 
+		/*
+
 		$to = "kiki@email.com";
 
 		$subject = "My subject";
@@ -63,6 +65,8 @@
 		$headers = "From: $email" 
 
 		mail($to,$subject,$msg,$headers);
+		
+		*/
 
 
   }
