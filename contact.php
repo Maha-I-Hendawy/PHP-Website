@@ -52,6 +52,19 @@
   	$email = $_POST['email'];
 
   	$msg = $_POST['msg'];
+
+
+
+		$to = "kiki@email.com";
+
+		$subject = "My subject";
+
+
+		$headers = "From: $email" 
+
+		mail($to,$subject,$msg,$headers);
+
+
   }
 
 
