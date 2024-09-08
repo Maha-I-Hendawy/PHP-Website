@@ -13,9 +13,16 @@
           <li class="nav-item">
             <a class="nav-link" href="../website/about.php">About</a>
           </li>
+           <li class="nav-item">
+            <a class="nav-link" href="../website/products.php">Products</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="../website/services.php">Services</a>
+          </li>
           <li class="nav-item">
             <a class="nav-link" href="../website/contact.php">Contact Us</a>
           </li>
+
         </ul>
         <form role="search">
           <input class="form-control" type="search" placeholder="Search" aria-label="Search">
