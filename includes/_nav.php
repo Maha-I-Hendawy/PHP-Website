@@ -16,14 +16,6 @@
           <li class="nav-item">
             <a class="nav-link" href="../website/contact.php">Contact Us</a>
           </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Service 1</a></li>
-              <li><a class="dropdown-item" href="#">Service 2</a></li>
-              <li><a class="dropdown-item" href="#">Service 3</a></li>
-            </ul>
-          </li>
         </ul>
         <form role="search">
           <input class="form-control" type="search" placeholder="Search" aria-label="Search">
